@@ -17,6 +17,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
-  <h3 align="Right">  
+  <h2 align="up">
+  <h2 align="Right">  
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=OMEGA6401&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="OMEGA6401" /></p>
-</h3>
+</h2>
+  </h2>
