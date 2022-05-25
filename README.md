@@ -7,9 +7,7 @@
 <h2>About me</h2>
 <p align="left"> 
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=OMEGA6401&label=Profile%20views&color=0e75b6&style=flat" alt="OMEGA6401" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OMEGA6401" alt="OMEGA6401" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=OMEGA6401-ma&theme=darkhub
 
 
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
