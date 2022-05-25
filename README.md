@@ -9,7 +9,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401)](https://github.com/ryo-ma/github-profile-trophy)
   
- [![trophy] (https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy] (https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub
 
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
 - 🌱 I’m currently learning Javascript
