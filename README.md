@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm OMEGA
 
   Programmer Humor:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 
 
