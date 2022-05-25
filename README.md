@@ -14,9 +14,15 @@
 - ⚡ Fun fact: You shoud follow me
   
 <h2 align="Middle">Stats</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
-  <h2 align="Right">  
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=OMEGA6401&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="OMEGA6401" /></p>
-</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&column=8&theme=darkhub&no-frame=true"/>
+</a>
+
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OMEGA6401&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6401&layout=compact" />
+</div>
