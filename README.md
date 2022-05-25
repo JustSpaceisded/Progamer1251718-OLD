@@ -3,21 +3,19 @@
 <h3 align="center">I´m the coolest child at robious middle school.</h3>
 
 
-<img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="middle" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 <h2 align="Middle">Stats</h2>
 
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=discord" alt="OMEGA" /></a> </p>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 
+---
 
 
-
-
-
-  <div>
+<div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OMEGA6401&theme=dark&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6401&theme=dark&layout=compact" />
 </div>
