@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You shoud follow me
   
-<h2 align="left">Stats</h2>
+<h2 align="Middle">Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
