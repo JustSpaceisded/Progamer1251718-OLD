@@ -7,8 +7,7 @@
 <h2>About me</h2>
 <p align="left"> 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
 
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
 - 🌱 I’m currently learning Javascript
