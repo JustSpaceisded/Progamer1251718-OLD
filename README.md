@@ -3,7 +3,7 @@
 <h3 align="center">I´m the coolest child at robious middle school.</h3>
 
 <h1 align="center">
-<img height="225" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img height="150" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </h1>
 
 
