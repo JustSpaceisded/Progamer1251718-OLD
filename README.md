@@ -16,7 +16,7 @@
 <h2 align="Middle">Stats</h2>
   
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&column=8&theme=darkhub&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub&no-frame=true&column=8"/>
 </a>
 
 
@@ -24,5 +24,6 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OMEGA6401&count_private=true&include_all_commits=true&theme=dark)" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6401&layout=compact" />
 </div>
