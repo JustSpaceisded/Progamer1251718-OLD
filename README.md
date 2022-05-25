@@ -9,8 +9,6 @@
 - 📫 How to reach me: Jackguiverarnold@yahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You shoud follow me
-- 
--
 
 
 
