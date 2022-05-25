@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
 <h3 align="center">I´m the coolest child at robious middle school.</h3>
 
-<h2 align="Middle">
+<div>
+  <img height="170"
+       <h2 align="Middle">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
+  </div>
   
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
 - 🌱 I’m currently learning Javascript
@@ -26,5 +29,5 @@
   
   <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OMEGA6401&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6401&layout=compact" />
 </div>
