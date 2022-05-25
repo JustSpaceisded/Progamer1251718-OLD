@@ -15,9 +15,7 @@
   
 <h2 align="Middle">Stats</h2>
 
-<h2 align="Left">
 [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-  </h2>
 
   <h2 align="Right">  
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=OMEGA6401&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="OMEGA6401" /></p>
