@@ -9,8 +9,10 @@
 
 <h2 align="Middle">Stats</h2>
 
+<h1 align="center">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&column=8&theme=gruvbox&no-frame=true"/>
 </a>
+</h1>
 
 
 ---
