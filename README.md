@@ -19,5 +19,3 @@
 <h2 align="left">Stats</h2>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=OMEGA6401&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="OMEGA6401" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OMEGA6401&show_icons=true&theme=dark&locale=en" alt="OMEGA6401" /></p>
-
