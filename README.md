@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
 <h3 align="center">I´m the coolest child at robious middle school.</h3>
 
-<h2 align="Middle">Stats</h2>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<h2 align="Middle">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
-<p align="left"> 
+<p align="left">
+  </h2>
   
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
 - 🌱 I’m currently learning Javascript
