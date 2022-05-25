@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
 <h3 align="center">I´m the coolest child at robious middle school.</h3>
 
+
 <img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+
 <h2 align="Middle">Stats</h2>
+
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=discord" alt="OMEGA" /></a> </p>
 
