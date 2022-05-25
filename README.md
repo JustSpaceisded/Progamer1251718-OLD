@@ -3,7 +3,7 @@
 <h3 align="center">I´m the coolest child at robious middle school.</h3>
 
        
-  <img align="left src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 </h2>
  
@@ -17,9 +17,7 @@
   
 <h2 align="Middle">Stats</h2>
   
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub&no-frame=true&column=8"/>
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=discord" alt="OMEGA" /></a> </p>
 
 
 ---
