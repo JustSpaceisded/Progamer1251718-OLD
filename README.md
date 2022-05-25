@@ -22,8 +22,4 @@
 
 ---
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OMEGA6401&count_private=true&include_all_commits=true&theme=dark)" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6401&layout=compact" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEGA6401&show_icons=true&theme=radical)
