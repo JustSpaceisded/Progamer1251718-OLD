@@ -5,13 +5,15 @@
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
-
 <p align="left"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rxzyx&label=Profile%20views&color=0e75b6&style=flat" alt="rxzyx" /> </p>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=OMEGA6401&label=Profile%20views&color=0e75b6&style=flat" alt="OMEGA6401" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxzyx" alt="rxzyx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OMEGA6401" alt="OMEGA6401" /></a> </p>
+
 
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
+- 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with javascript
 - 📫 How to reach me: Jackguiverarnold@yahoo.com
 - 😄 Pronouns: He/Him
