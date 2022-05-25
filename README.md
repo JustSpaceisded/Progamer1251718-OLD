@@ -5,7 +5,8 @@
        <h2 align="Middle">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
-  </div>
+</h2>
+ 
   
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
 - 🌱 I’m currently learning Javascript
