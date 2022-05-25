@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
 <h3 align="center">I´m the coolest child at robious middle school.</h3>
 
-</h1>align="center">
+<h1 align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </h1>
 
