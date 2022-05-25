@@ -7,8 +7,6 @@
 <h2>About me</h2>
 <p align="left"> 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on Makeing myself a unblocker and fixing my website
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with javascript
@@ -17,5 +15,7 @@
 - ⚡ Fun fact: You shoud follow me
 
 <h2 align="left">Stats</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6401&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=OMEGA6401&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="OMEGA6401" /></p>
