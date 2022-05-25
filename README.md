@@ -22,5 +22,3 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OMEGA6401&theme=dark&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6401&theme=dark&layout=compact" />
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
