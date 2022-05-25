@@ -1,5 +1,5 @@
-" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+OMEGA!;HTML+Coder;JavaScript+Game+maker;">
-<h1 align="center">Hi 👋, I'm 3kh0</h1>
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO https://omega6401.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+OMEGA!;HTML+Coder;JavaScript+Game+maker;">
+<h1 align="center">Hi 👋, I'm OMEGA
 ### Programmer Humor:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
