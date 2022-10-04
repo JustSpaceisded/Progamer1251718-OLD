@@ -1,4 +1,4 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO https://omega6401.github.io/ FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+OminousNebula!;HTML+Coder;Terrible+with+JavaScript;Cool+Gamer">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO https://omega6401.github.io/ FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+OminousNebula!;HTML+Coder;Really+good+with+JavaScript;Cool+Gamer">
 <h1 align="center">Hi 👋, I'm OminousNebula</h1>
 <h3 align="center">I´m the 2nd coolest child at robious middle school.</h3>
 
